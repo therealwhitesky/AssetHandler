@@ -352,6 +352,7 @@ class AssetHandler
 				}
 			}
 		}
+    
 		return $assetUrls;
 	}
 	
